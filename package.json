@@ -1,0 +1,14 @@
+{
+  "name": "wtj-strike",
+  "version": "1.0.0",
+  "description": "WTJ Strike Staff Management System",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.12.1",
+    "express": "^4.19.2",
+    "dotenv": "^16.3.1"
+  }
+}
