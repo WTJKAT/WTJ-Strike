@@ -1,0 +1,18 @@
+{
+  "warningChannelId": "1393092850505482352",
+  "demoteRoles": [
+    "1164313804188954705",
+    "1316478460897529887",
+    "1112832042284101783",
+    "1112831734342488185",
+    "1141850497670717511",
+    "1312700220923969666"
+  ],
+  "protectedRole": "898753055233830952",
+  "embedIcon": "https://example.com/wtj-icon.png",
+  "embedBanner": "https://example.com/wtj-banner.png",
+  "embedFooter": "Team WTJ | Staff Management System",
+  "warnPermissionRoles": [],
+  "resetPermissionRoles": [],
+  "configPermissionRoles": []
+}
